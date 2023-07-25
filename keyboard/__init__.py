@@ -1,0 +1,1 @@
+from keyboard.keyboard import kb_whois, inline_kb_whois
